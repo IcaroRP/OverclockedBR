@@ -1,1 +1,7 @@
+add core_mod/disk/wars_patch/text/text_caption_en.pac
+add core_mod/disk/wars_patch/text/text_common_en.pac
+add core_mod/disk/wars_patch/text/text_dlc001_en.pac
+add core_mod/disk/wars_patch/text/text_dlc006_en.pac
+add core_mod/disk/wars_patch/text/text_menu_en.pac
+add core_mod/disk/wars_patch/text/text_title_en.pac
 add mod.ini
